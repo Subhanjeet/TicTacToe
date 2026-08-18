@@ -46,11 +46,11 @@
 ## 🎥 Demo
 
 <div align="center">
-  <img src="X_Win.png" alt="Gameplay Screenshot" width="250">
+  <img src="assets/X_Win.png" alt="Gameplay Screenshot" width="250">
 
-  <img src="Y_Win.png" alt="Gameplay Screenshot" width="250">
+  <img src="assets/Y_Win.png" alt="Gameplay Screenshot" width="250">
   
-  <img src="Draw.png" alt="Gameplay Screenshot" width="250">
+  <img src="assets/Draw.png" alt="Gameplay Screenshot" width="250">
   
 </div>
 
@@ -88,12 +88,13 @@ a 400x400 window pops up and you're playing.
 
 ```
 TicTacToe/
-├── TicTacToe.java     # UI + game logic, all in one file
-├── screenshot.png     # gameplay preview (add your own)
+├── TicTacToe.java
+├── assets/
+│   ├── X_Win.png
+│   ├── O_Win.png
+│   └── Draw.png
 └── README.md
 ```
-
-> ⚠️ the class uses `package TicTacToe;` — keep the file inside a folder named `TicTacToe`, or delete that line to run it standalone.
 
 ---
 
