@@ -8,8 +8,6 @@
 ![Swing](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
-<img src="screenshot.png" alt="Tic Tac Toe Screenshot" width="420">
-
 *click a box → X and O take turns → first to 3 in a row wins*
 
 </div>
