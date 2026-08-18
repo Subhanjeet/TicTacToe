@@ -6,7 +6,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
 <img src="screenshot.png" alt="Tic Tac Toe Screenshot" width="420">
